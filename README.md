@@ -13,7 +13,7 @@ It costs 25 times more to acquire a new customer as compared to retaining custom
 When I started this project, I planned to be able to predict the churn of clients for this company. Finally, through this project I analyzed the dataset and trained various ML classifier models to perform “Uplift Modeling” by targeting potential customers with the intention of reducing marketing costs while preserving the profit margins.
 
 ## Modeling
-# Data Analysis
+### Data Analysis
 - Check for missing values
 - One-hot encoding
 - Feature engineering
@@ -23,7 +23,7 @@ When I started this project, I planned to be able to predict the churn of client
 - Synthetic Data Augmentation (SMOTE)
 - Principal Component Analysis
  
-# Baseline Models
+### Baseline Models
 - Logistic Regression 
 - K-nearest neighbor
 - Support Vector Machines
@@ -33,7 +33,7 @@ When I started this project, I planned to be able to predict the churn of client
 - LightBoost
 - Artificial Neural Network
 
-# Hyper-parameter tuning
+### Hyper-parameter tuning
 - GridSearchCV
 - RandomSearchCV
 
